@@ -2,6 +2,7 @@
 # Ryan Dimalanta's Portfolio
 
 I am a computer science major at CSUF and I plan on graduating in 2026.
+My github: https://github.com/rroquecpsc
 
 ## Favorite CPSC 120L Labs
 
